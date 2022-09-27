@@ -7,12 +7,12 @@
 - Learning, Practice;
 
 ## Technologies stack:
-- Hilt, Retrofit, ROOM, Material Design, Compose, Coroutines/Flows, Clean architecture, MVVM.
+- Hilt, Material Design, Compose, Coroutines/Flows, Clean architecture, MVVM.
 
 ## Goals and features:
 - pattern Strategy
-- Observer pattern
-- Decorator pattern
+- pattern Observer
+- pattern Decorator
 - pattern Abstract Factory
 - pattern Command
 - Adapter and Facade patterns
